@@ -8,7 +8,6 @@ requests = "*"
 django = "*"
 pillow = "*"
 psycopg2 = "*"
-django-tastypie = "*"
 
 [dev-packages]
 
